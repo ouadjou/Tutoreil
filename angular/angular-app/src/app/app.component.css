@@ -1,0 +1,9 @@
+.container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 4àpx;
+    width: 600px;
+    height: 700px;
+    outline: dashed 1px black;
+  }
+
